@@ -36,10 +36,12 @@ accordion:
     title: Personlig veiledning
   - content: Content her. Hvorfor finner jeg ikke denne infoen????
     title: Title
-section1: 'Kommer dette med nå? Ja, det gjør det visst. Accorion under?'
+section1: 'Kommer dette med nå? Ja, det gjør det visst. Accorion under her ?'
 accordion2:
-  - description: Description
-    title: Title
+  - description: Description is here.
+    title: Title goes here
+  - description: sdfsdfasdfasdf
+    title: sdfsfs
 meta:
   description: This is a meta description.
   title: Hjem
