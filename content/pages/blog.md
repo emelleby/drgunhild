@@ -1,10 +1,13 @@
 ---
 template: BlogIndex
 slug: blog
-title: Blog Page
-featuredImage: 'https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/'
-subtitle: This is the blog page subtitle.
+title: Bloggen
+featuredImage: 'https://ucarecdn.com/5e90eb67-4ded-48d9-b68a-0c0cc57993e5/'
+subtitle: >-
+  Her finner du inspirasjon til enkle grep du kan gjøre i hverdagen for å få økt
+  overskudd og livsglede.
 meta:
   description: This is a meta description.
-  title: Blog Page
+  title: Blogg
 ---
+
