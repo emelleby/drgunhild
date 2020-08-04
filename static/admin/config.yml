@@ -161,7 +161,7 @@ collections: # A list of collections the CMS should be able to edit
             widget: 'list'
             fields:
               - { name: title, label: title, widget: string, default: '' }
-              - { name: description, label: description, widget: string }
+              - { name: description, label: description, widget: markdown }
           - label: 'Gallery'
             name: 'gallery'
             widget: 'list'
@@ -217,6 +217,12 @@ collections: # A list of collections the CMS should be able to edit
               - { label: title, name: title, widget: string }
               - { label: content, name: content, widget: text }
           - { label: Section 1, name: section1, widget: markdown }
+          - label: 'accordion'
+            name: 'accordion'
+            widget: 'list'
+            fields:
+              - { name: title, label: title, widget: string, default: '' }
+              - { name: description, label: description, widget: string }
           - label: 'Meta'
             required: false
             name: 'meta'
