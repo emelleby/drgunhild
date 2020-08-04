@@ -6,7 +6,7 @@ import Content from '../components/Content'
 import Layout from '../components/Layout'
 
 // Export Template for use in CMS preview
-export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
+export const HomePageTemplate = ({ title, subtitle, featuredImage, accordion, section1, body }) => (
   <main className="Home">
     <PageHeader
       large
@@ -18,6 +18,18 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
     <section className="section">
       <div className="container">
         <Content source={body} />
+      </div>
+    </section>
+  
+    <section className="section">
+      <div className="container">
+        <Content source={accordion} />
+      </div>
+    </section>
+  
+    <section className="section">
+      <div className="container">
+        <Content source={section1} />
       </div>
     </section>
   </main>
