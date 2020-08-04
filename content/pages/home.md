@@ -36,6 +36,7 @@ accordion:
     title: Personlig veiledning
   - content: content
     title: Title
+section1: Kommer dette med nå?
 meta:
   description: This is a meta description.
   title: Hjem
