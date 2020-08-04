@@ -57,7 +57,10 @@ export const pageQuery = graphql`
         title
         subtitle
         featuredImage
-        accordion { ... }
+        accordion {
+          title
+          description
+        }
         section1
       }
     }
