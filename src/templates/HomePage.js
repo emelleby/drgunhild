@@ -69,6 +69,10 @@ export const pageQuery = graphql`
           content
         }
         section1
+        accordion2 {
+          title
+          description
+        }
       }
     }
   }
