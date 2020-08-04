@@ -7,10 +7,6 @@ subtitle: >-
   Ønsker du å få mer overskudd og livsglede samtidig som du kan forebygge og
   reversere sykdommer? Her finner du tips og inspirasjon til et mer plantebasert
   kosthold og en livsstil som kan gi deg dette.
-
-
-  Vil du ha personlig veiledning eller booke meg som foredragsholder, velg
-  tjenester under.
 accordion:
   - content: >-
       Ønsker du å få mer overskudd, redusere vekt og få mer livsglede samtidig
