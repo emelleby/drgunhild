@@ -23,7 +23,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, accordion, se
   
     <section className="section">
       <div className="container">
-        <Content source={accordion} />
+        <Accordion items={accordion} />
       </div>
     </section>
   
@@ -57,7 +57,7 @@ export const pageQuery = graphql`
         title
         subtitle
         featuredImage
-        accordion
+        accordion { ... }
         section1
       }
     }
