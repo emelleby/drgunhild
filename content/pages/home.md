@@ -34,7 +34,7 @@ accordion:
 
       Min mailadresse: gunhild.melleby@gmail.com
     title: Personlig veiledning
-  - content: Content her.
+  - content: Content her. Hvorfor finner jeg ikke denne infoen????
     title: Title
 section1: 'Kommer dette med nå? Ja, det gjør det visst.'
 meta:
