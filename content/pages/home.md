@@ -1,30 +1,45 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+title: Dr.Gunhild
+featuredImage: 'https://ucarecdn.com/94d83ab7-97a1-4710-abcf-ced6abc8540b/'
+subtitle: >-
+  Ønsker du å få mer overskudd og livsglede samtidig som du kan forebygge og
+  reversere sykdommer? Her finner du tips og inspirasjon til et mer plantebasert
+  kosthold og en livsstil som kan gi deg dette.
+
+
+  Vil du ha personlig veiledning eller booke meg som foredragsholder, velg
+  tjenester under.
+accordion:
+  - content: >-
+      Ønsker du å få mer overskudd, redusere vekt og få mer livsglede samtidig
+      som du kan forebygge og reversere sykdom, men synes det er vanskelig å
+      vite hvordan du kan komme i gang? Da kan du få veiledning av meg med 1 - 1
+      samtaler. Disse kan foregå ansikt til ansikt eller være på Zoom. Ta
+      kontakt med meg på mail hvis du er interessert.
+
+
+      Min mailadresse: gunhild.melleby@gmail.com
+    title: Personlig veiledning
+  - content: >-
+      Jeg holder foredrag om forskjellige tema som:
+
+
+      - Et anti inflammatorisk kosthold for mer overskudd og livsglede
+
+
+      - Ned i vekt med bedre tarmhelse 
+
+
+      - Et 6-trinns program til mer overskudd og mindre sykdom
+
+
+      - Mat som påvirker humøret og forebygger psykiske lidelser som angst og
+      depresjon
+    title: Foredrag
 meta:
   description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  title: Hjem | Dr.G
 ---
-
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
-
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
-
-# Features
-
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
-
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+Vil du ha personlig veiledning eller booke meg som foredragsholder, velg tjenester under.
