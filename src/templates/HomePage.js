@@ -57,6 +57,8 @@ export const pageQuery = graphql`
         title
         subtitle
         featuredImage
+        accordion
+        section1
       }
     }
   }
