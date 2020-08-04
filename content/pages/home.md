@@ -9,16 +9,6 @@ subtitle: >-
   kosthold og en livsstil som kan gi deg dette.
 accordion:
   - content: >-
-      Ønsker du å få mer overskudd, redusere vekt og få mer livsglede samtidig
-      som du kan forebygge og reversere sykdom, men synes det er vanskelig å
-      vite hvordan du kan komme i gang? Da kan du få veiledning av meg med 1 - 1
-      samtaler. Disse kan foregå ansikt til ansikt eller være på Zoom. Ta
-      kontakt med meg på mail hvis du er interessert.
-
-
-      Min mailadresse: gunhild.melleby@gmail.com
-    title: Personlig veiledning
-  - content: >-
       Jeg holder foredrag om forskjellige tema som:
 
 
@@ -34,8 +24,20 @@ accordion:
       - Mat som påvirker humøret og forebygger psykiske lidelser som angst og
       depresjon
     title: Foredrag
+  - content: >-
+      Ønsker du å få mer overskudd, redusere vekt og få mer livsglede samtidig
+      som du kan forebygge og reversere sykdom, men synes det er vanskelig å
+      vite hvordan du kan komme i gang? Da kan du få veiledning av meg med 1 - 1
+      samtaler. Disse kan foregå ansikt til ansikt eller være på Zoom. Ta
+      kontakt med meg på mail hvis du er interessert.
+
+
+      Min mailadresse: gunhild.melleby@gmail.com
+    title: Personlig veiledning
+  - content: content
+    title: Title
 meta:
   description: This is a meta description.
-  title: Hjem | Dr.G
+  title: Hjem
 ---
 Vil du ha personlig veiledning eller booke meg som foredragsholder, velg tjenester under.
