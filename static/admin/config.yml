@@ -214,8 +214,8 @@ collections: # A list of collections the CMS should be able to edit
             widget: 'list'
             required: true
             fields:
-              - { label: 'Title', name: 'title', widget: 'string' }
-              - { label: Content, name: content, widget: text }
+              - { label: title, name: title, widget: string }
+              - { label: content, name: content, widget: text }
           - { label: Section 1, name: section1, widget: markdown }
           - label: 'Meta'
             required: false
