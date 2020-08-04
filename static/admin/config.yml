@@ -212,10 +212,10 @@ collections: # A list of collections the CMS should be able to edit
           - label: 'accordion'
             name: 'accordion'
             widget: 'list'
-            required: true
+            required: false
             fields:
-              - { label: title, name: title, widget: string }
-              - { label: content, name: content, widget: text }
+              - { name: title, label: title, widget: string, default: '' }
+              - { name: content, label: content, widget: markdown }
           - { label: Section 1, name: section1, widget: markdown }
           - label: 'accordion 2'
             name: 'accordion2'
