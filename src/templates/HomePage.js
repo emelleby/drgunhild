@@ -7,7 +7,7 @@ import Layout from '../components/Layout'
 import Accordion from '../components/Accordion'
 
 // Export Template for use in CMS preview
-export const HomePageTemplate = ({ title, subtitle, featuredImage, accordion, section1, body }) => (
+export const HomePageTemplate = ({ title, subtitle, featuredImage, accordion, accordion2, section1, body }) => (
   <main className="Home">
     <PageHeader
       large
@@ -31,6 +31,12 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, accordion, se
     <section className="section">
       <div className="container">
         <Content source={section1} />
+      </div>
+    </section>
+  
+    <section className="section">
+      <div className="container">
+        <Accordion items={accordion2} />
       </div>
     </section>
   </main>
