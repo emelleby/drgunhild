@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Dr.Gunhild
-featuredImage: 'https://ucarecdn.com/94d83ab7-97a1-4710-abcf-ced6abc8540b/'
+featuredImage: 'https://ucarecdn.com/36b3484b-86e5-4f8e-bc84-3c61ad75b5a2/'
 subtitle: >-
   Ønsker du å få mer overskudd og livsglede samtidig som du kan forebygge og
   reversere sykdommer? Her finner du tips og inspirasjon til et mer plantebasert
